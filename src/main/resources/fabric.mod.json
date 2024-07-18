@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"net.shirojr.libjr.LibJR"
+		],
+		"client": [
+			"net.shirojr.libjr.LibJRClient"
 		]
 	},
 	"mixins": [
