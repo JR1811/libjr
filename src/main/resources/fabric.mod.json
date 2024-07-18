@@ -5,13 +5,14 @@
 	"name": "LibJR",
 	"description": "A library used by ",
 	"authors": [
-		"Me!"
+		"DEV - ShiroJR",
+		"Artist - ShiroJR"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/JR1811",
+		"sources": "https://github.com/JR1811/libjr"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT with Attribution Requirement",
 	"icon": "assets/libjr/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -30,8 +31,5 @@
 		"minecraft": "~1.21",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
